@@ -15,7 +15,7 @@ In order to run the jupyter notebook in a right way, please install libraries in
   pip install -r requierements.txt 
 ```
 
-Then, you can run the notebook calles 'DS.ipynb.
+Then, you can run the notebook called 'DS.ipynb' .
 
 ## Contact me
 If you have any question, please contact me.
